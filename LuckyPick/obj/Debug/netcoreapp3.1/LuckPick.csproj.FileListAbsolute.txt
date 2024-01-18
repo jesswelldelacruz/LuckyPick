@@ -1,0 +1,13 @@
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.exe
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.deps.json
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.runtimeconfig.json
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.runtimeconfig.dev.json
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.dll
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\bin\Debug\netcoreapp3.1\LuckPick.pdb
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.csprojAssemblyReference.cache
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.AssemblyInfoInputs.cache
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.AssemblyInfo.cs
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.csproj.CoreCompileInputs.cache
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.dll
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.pdb
+C:\Users\jeswell.delacruz\source\repos\LuckPick\LuckPick\obj\Debug\netcoreapp3.1\LuckPick.genruntimeconfig.cache
